@@ -179,3 +179,17 @@ li {
 .botM200 {
     margin-bottom: 200px;
 }
+
+/* SECTION 5 */
+
+.fStart {
+    align-content: flex-start;
+}
+
+.fEnd {
+    align-content: flex-end;
+}
+
+.boxS5 {
+    width: 100%;
+}
