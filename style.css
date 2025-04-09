@@ -150,9 +150,32 @@ li {
 }
 
 .boxContact {
-    width: 30px;
+    width: 32px;
 }
 
 .imgS2 {
     border-radius: 0px 250px 0px 100px;
+}
+
+.topM50 {
+    margin-top: 50px;
+}
+
+/* SECTION 3 */
+
+.boxS3 {
+    background-color: white;
+    border-radius: 20px;
+}
+
+.topP50 {
+    padding-top: 50px;
+}
+
+.botP75 {
+    padding-bottom: 75px;
+}
+
+.botM200 {
+    margin-bottom: 200px;
 }
